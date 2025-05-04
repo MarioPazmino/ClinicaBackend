@@ -1,3 +1,4 @@
+//src/routes/paciente.routes.js
 const express = require('express');
 const router = express.Router();
 const pacienteCtrl = require('../controllers/paciente.controller');
